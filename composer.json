@@ -1,5 +1,5 @@
 {
-    "name": "drevops/renovate-example-source",
+    "name": "drevops/renovate-example-source2",
     "description": "A test package to test Renovate config. Used to trigger release updates.",
     "authors": [
         {
